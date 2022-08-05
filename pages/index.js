@@ -7,6 +7,7 @@ import Date from '../components/date';
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
+      <h1> Test Change</h1>
       {/* Keep the existing code here */}
 
       {/* Add this <section> tag below the existing <section> tag */}
